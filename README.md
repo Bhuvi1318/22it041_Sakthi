@@ -25,6 +25,12 @@ commands :
 
 
 ## 3 Get your friend's docker image and create a compose.yml and add the screenshots and commands here. Pls ensure that you tested the app correctly
+commands :
+1) `docker pull dharaneesh1318/personal-api:latest`
+2) `docker images`
+3) `docker compose up`
+4) `docker compose up -d`
+
 1)My friend image : Name 
 
 ![image](https://github.com/user-attachments/assets/d410b1ef-2097-4a9f-9232-7b9beb8a6e53)
