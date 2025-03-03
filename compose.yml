@@ -1,1 +1,14 @@
-Update this file to add the content
+version: '3'
+services:
+  nagajothi:
+    image: "bhuvi1318/22it024-docker"
+    container_name: bhuvi_container
+    restart: always
+    ports:
+      - "5001:5000"
+  dharaneesh:
+    image: "dharaneesh1318/22it006-docker"
+    container_name: dharaneesh_container
+    restart: always
+    ports:
+      - "5002:5000"
