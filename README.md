@@ -58,5 +58,19 @@ services:
 
 
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
+commands :
+1) `docker build -t bhuvi1318/22it041-ml-model:latest .`
+
+2) `docker push bhuvi1318/22it041-ml-model:latest`
+
+3) `docker pull bhuvi1318/22it041-ml-model:latest`
+
+4) `docker pull bhuvi1318/22it041-ml-model:latest`
+
+ ouput:
+ 
+ ![image](https://github.com/user-attachments/assets/b0d6dd15-0599-421c-a7f0-c98b29b2154b)
+
+
 ## 4 Add your DockerHub username
 ## 5 Add your DockerHub Repo screenshot with 2 images
