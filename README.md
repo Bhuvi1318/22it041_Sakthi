@@ -25,6 +25,21 @@ commands :
 
 
 ## 3 Get your friend's docker image and create a compose.yml and add the screenshots and commands here. Pls ensure that you tested the app correctly
+1)My friend image : Name 
+
+![image](https://github.com/user-attachments/assets/d410b1ef-2097-4a9f-9232-7b9beb8a6e53)
+
+2) Reg Num:
+
+![image](https://github.com/user-attachments/assets/68424d06-22ca-4b3a-aa24-0d6fbc5ee4e2)
+
+3) Dept:
+
+![image](https://github.com/user-attachments/assets/f3b9fe99-1e00-4dd7-abde-2296f869bcf5)
+
+
+
+
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
 ## 4 Add your DockerHub username
 ## 5 Add your DockerHub Repo screenshot with 2 images
